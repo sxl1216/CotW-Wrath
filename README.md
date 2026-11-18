@@ -5,7 +5,7 @@
 
 Pathfinder: Wrath of the Righteous 的 Call of the Wild 内容移植项目。当前正式版本 **0.14.66**，修复Amnesiac的Spell Recollection；本轮新增迁移项0。
 
-[下载安装包](https://github.com/shenzhoudadi/CotW-Wrath/releases/tag/v0.14.66) · [安装说明](README.zh-CN.md) · [本轮测试说明](0.14.66Amnesiac-feedback-test-guide.txt)
+ [安装说明](README.zh-CN.md) · [本轮测试说明](0.14.66Amnesiac-feedback-test-guide.txt)
 
 后续agent：先读 [AGENTS.md](AGENTS.md)、[当前交接](docs/agent-handoff/HANDOFF.md) 和 [精简流程/耗时](CURRENT_RELEASE.md)。只改本轮内容，做一次必要定向检查，直接编译出包；遇到真实问题按log修。默认不跑测试套件、全历史或旧证书链。
 
