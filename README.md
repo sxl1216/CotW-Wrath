@@ -1,4 +1,3 @@
-> [0.14.75 Occultist + Spiritualist TEST](docs/releases/0.14.75-TEST.md) · [下载](https://github.com/shenzhoudadi/CotW-Wrath/releases/tag/v0.14.75-Occultist-Spiritualist-TEST)
 
 > 笨笨猫猫堡
 
